@@ -12,7 +12,7 @@ Exemplo Abaixo:
             "status": "BACKLOG"
         }
 **
-GET /tarefas/exluidos ( Listagem de tarefas excluidas**
+**GET /tarefas/exluidos ( Listagem de tarefas excluidas****
 Exemplo abaixo:
 
  {
