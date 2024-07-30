@@ -11,7 +11,7 @@ Exemplo Abaixo:
             "nomeTarefa": "Teste2",
             "status": "BACKLOG"
         }
-**
+        
 **GET /tarefas/exluidos ( Listagem de tarefas excluidas****
 Exemplo abaixo:
 
